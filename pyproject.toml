@@ -1,0 +1,9 @@
+[project]
+name = "python-sast-demo"
+version = "0.1.0"
+description = "Small demo project with vulnerable and safe patterns for SAST tools"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
