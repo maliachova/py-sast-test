@@ -1,9 +1,3 @@
-# Python SAST Demo Project
-
-Small Python project containing:
-
-- intentionally vulnerable code for SAST detection
-- normal/safe code for comparison
 
 ## Structure
 
